@@ -64,6 +64,10 @@
   border-bottom: 1px solid gray;
 }
 
+.column-loading {
+  background-color: #E3E3E3;
+}
+
 .column-todo {
   background-color: #C9AF97;
 }
